@@ -79,21 +79,7 @@
     <meta name="twitter:description" content="Best education WordPress Theme for educational, training center, education center, university, college, kindergarten, courses hub and academy." />
     <meta name="twitter:title" content="#1 Education WordPress Theme for 2016" />
     <meta name="twitter:image" content="https://educationwp.thimpress.com/wp-content/plugins/revslider/admin/assets/images/dummy.png" />
-    <script type='application/ld+json'>
-        {
-            "@context": "http:\/\/schema.org",
-            "@type": "WebSite",
-            "@id": "#website",
-            "url": "https:\/\/educationwp.thimpress.com\/",
-            "name": "Education WP",
-            "potentialAction": {
-                "@type": "SearchAction",
-                "target": "https:\/\/educationwp.thimpress.com\/?s={search_term_string}",
-                "query-input": "required name=search_term_string"
-            }
-        }
-
-    </script>
+    
     <link rel='dns-prefetch' href='//fonts.googleapis.com' />
     <link rel='dns-prefetch' href='//s.w.org' />
     <link rel="alternate" type="application/rss+xml" title="Education WP &raquo; Feed" href="https://educationwp.thimpress.com/feed/" />
@@ -102,7 +88,7 @@
 
     </style>
     <link rel='stylesheet' id='kirki_google_fonts-css' href='https://fonts.googleapis.com/css?family=Roboto+Slab%3A100%2C300%2Cregular%2C700%7CRoboto%3A100%2C100italic%2C300%2C300italic%2Cregular%2Citalic%2C500%2C500italic%2C700%2C700italic%2C900%2C900italic&#038;subset' type='text/css' media='all' />
-    <link rel='stylesheet' id='dashicons-css' href='https://3ek5k1tux0822q3g83e30fye-wpengine.netdna-ssl.com/wp-includes/css/dashicons.min.css' type='text/css' media='all' />
+    <link rel='stylesheet' id='dashicons-css' href='../css/dashicons.min.css' type='text/css' media='all' />
     <script type='text/javascript'>
         var slide_in = {
             "demo_dir": "https:\/\/educationwp.thimpress.com\/wp-content\/plugins\/convertplug\/modules\/slide_in\/assets\/demos"
@@ -310,8 +296,11 @@
     </script>
 </head>
 <body>
+ {for $i=1 to count($body)}
+        {include file=$body[$i - 1]}
+    {/for}
      <script type="text/javascript">
-        var tp_chameleon_url_stylesheet = 'http://educationwp.thimpress.com/wp-content/themes/eduma/style-1.css';
+        var tp_chameleon_url_stylesheet = '../css/style-1';
         var tp_chameleon_url_admin_ajax = 'https://educationwp.thimpress.com/wp-admin/admin-ajax.php';
         var tp_chameleon_wp_nonce = '313750e275';
         var tp_chameleon_primary_color = 'rgb(255, 182, 6)';

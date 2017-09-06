@@ -1,7 +1,7 @@
 <html>
     <body>
         <section class="content-area">
-                    <div class="top_site_main" style="color: #ffffff;background-image:url(https://3ek5k1tux0822q3g83e30fye-wpengine.netdna-ssl.com/educationwp-2/wp-content/themes/eduma/images/bg-page.jpg);"> <span class="overlay-top-header" style="background:rgba(0,0,0,0.5);"></span>
+                    <div class="top_site_main" style="color: #ffffff;background-image:url(https://3ek5k1tux0822q3g83e30fye-wpengine.netdna-ssl.com/educationwp-2/wp-content/themes/eduma/images/bg-page.jpg); padding-top: 140px;"> <span class="overlay-top-header" style="background:rgba(0,0,0,0.5);"></span>
                         <div class="page-title-wrapper">
                             <div class="banner-wrapper container">
                                 <h1>Contact</h1>
@@ -145,70 +145,9 @@
                                                     </div>
                                                 </div>
                                             </div>
-                                            <div id="pg-87-1" class="panel-grid panel-has-style">
-                                                <div class="thim-bg-overlay text-center siteorigin-panels-stretch panel-row-style panel-row-style-for-87-1" data-stretch-type="full">
-                                                    <div id="pgc-87-1-0" class="panel-grid-cell">
-                                                        <div id="panel-87-1-0-0" class="so-panel widget widget_heading panel-first-child" data-index="6">
-                                                            <div class="panel-widget-style panel-widget-style-for-87-1-0-0">
-                                                                <div class="thim-widget-heading thim-widget-heading-base">
-                                                                    <div class="sc_heading text-center">
-                                                                        <h3 style="color:#ffffff;" class="title">Subscribe To Our News</h3><span style="background-color:#ffffff" class="line"></span></div>
-                                                                </div>
-                                                            </div>
-                                                        </div>
-                                                        <div id="panel-87-1-0-1" class="so-panel widget widget_text panel-last-child" data-index="7">
-                                                            <div class="textwidget">
-                                                                <script type="text/javascript">
-                                                                    (function() {
-                                                                        if (!window.mc4wp) {
-                                                                            window.mc4wp = {
-                                                                                listeners: [],
-                                                                                forms: {
-                                                                                    on: function(event, callback) {
-                                                                                        window.mc4wp.listeners.push({
-                                                                                            event: event,
-                                                                                            callback: callback
-                                                                                        });
-                                                                                    }
-                                                                                }
-                                                                            }
-                                                                        }
-                                                                    })();
-
-                                                                </script>
-                                                                <form id="mc4wp-form-3" class="mc4wp-form mc4wp-form-3101 mc4wp-form-basic" method="post" data-id="3101" data-name="Default sign-up form">
-                                                                    <div class="mc4wp-form-fields"><input type="email" id="mc4wp_email" name="EMAIL" placeholder="Your email here" required /><input type="submit" value="Subscribe" />
-                                                                        <div style="display: none;"><input type="text" name="_mc4wp_honeypot" value="" tabindex="-1" autocomplete="off" /></div><input type="hidden" name="_mc4wp_timestamp" value="1504110238" /><input type="hidden" name="_mc4wp_form_id" value="3101" /><input type="hidden" name="_mc4wp_form_element_id" value="mc4wp-form-3" /></div>
-                                                                    <div class="mc4wp-response"></div>
-                                                                </form>
-                                                            </div>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                            <div id="pg-87-2" class="panel-grid panel-no-style">
-                                                <div id="pgc-87-2-0" class="panel-grid-cell">
-                                                    <div id="panel-87-2-0-0" class="so-panel widget widget_heading panel-first-child panel-last-child" data-index="8">
-                                                        <div class="thim-widget-heading thim-widget-heading-base">
-                                                            <div class="sc_heading text-left">
-                                                                <h3 class="title">Location on map</h3><span class="line"></span></div>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                            <div id="pg-87-3" class="panel-grid panel-has-style">
-                                                <div class="siteorigin-panels-stretch thim-fix-stretched panel-row-style panel-row-style-for-87-3" data-stretch-type="full-stretched">
-                                                    <div id="pgc-87-3-0" class="panel-grid-cell">
-                                                        <div id="panel-87-3-0-0" class="so-panel widget widget_google-map panel-first-child panel-last-child" data-index="9">
-                                                            <div class="thim-widget-google-map thim-widget-google-map-base">
-                                                                <div class="kcf-module">
-                                                                    <div class="ob-google-map-canvas" style="height:450px;" id="ob-map-canvas-8333a4bc9ebc4f6bca9807a7f3671767" data-display_by="address" data-lat="41.868626" data-lng="-74.104301" data-address="58 Sharrocks Road, Mount Egerton VIC 3352, Australia" data-zoom="12" data-draggable="1" data-marker-icon="https://educationwp.thimpress.com/demo-3/wp-content/uploads/sites/19/2015/10/maker-map.png" data-marker-at-center="1" data-marker-positions="false" data-api-key="AIzaSyAbVPBvXKBj8BIyxyc7jOQv1xzJqL9hysc"></div>
-                                                                </div>
-                                                            </div>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                            </div>
+                                           
+                                           
+                                           
                                         </div>
                                     </div>
                                 </article>

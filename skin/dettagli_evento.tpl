@@ -1,7 +1,7 @@
 <html>
     <body>
         <section class="content-area" style="transform: none; min-height: 168px;">
-                    <div class="top_site_main" style="color: #ffffff;background-image:url(https://3ek5k1tux0822q3g83e30fye-wpengine.netdna-ssl.com/demo-3/wp-content/themes/eduma/images/bg-page.jpg);"> <span class="overlay-top-header" style="background:rgba(0,0,0,0.5);"></span>
+                    <div class="top_site_main" style="color: #ffffff;background-image:url(https://3ek5k1tux0822q3g83e30fye-wpengine.netdna-ssl.com/demo-3/wp-content/themes/eduma/images/bg-page.jpg); padding-top: 140px;"> <span class="overlay-top-header" style="background:rgba(0,0,0,0.5);"></span>
                         <div class="page-title-wrapper">
                             <div class="banner-wrapper container">
                                 <h2>Events</h2>

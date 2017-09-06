@@ -70,173 +70,22 @@
                                         <img src="https://3ek5k1tux0822q3g83e30fye-wpengine.netdna-ssl.com/demo-3/wp-content/uploads/sites/19/2015/11/logo-sticky.png" alt="Education WP - Demo 3">
                                     </a>
                                 </div>
-                                <nav class="width-navigation table-cell table-right">
-                                    <ul class="nav navbar-nav menu-main-menu">
-                                        <li id="menu-item-3404" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-3404 tc-menu-item tc-menu-depth-0 tc-menu-align-left tc-menu-layout-column tc-menu-column-hide-title">
-                                            <span class="tc-menu-inner">Demos</span>
-                                            <span class="icon-toggle">
-                     <i class="fa fa-angle-down"></i>
-                     </span>
-                                            <div class="tc-megamenu-wrapper tc-megamenu-holder mega-sub-menu sub-menu tc-columns-3" style="left: -301px;">
-                                                <ul class="row">
-                                                    <li id="menu-item-5778" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-5778 tc-menu-item tc-menu-depth-1 tc-menu-align-left col-md-4 col-sm-12">
-                                                        <a href="#" class="tc-megamenu-title">Group 1</a>
-                                                        <ul class="sub-menu">
-                                                            <li id="menu-item-3407" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3407 tc-menu-item tc-menu-depth-2 tc-menu-align-left">
-                                                                <a href="//educationwp.thimpress.com/" class="tc-menu-inner">Demo Main Demo</a>
-                                                            </li>
-                                                            <li id="menu-item-3405" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3405 tc-menu-item tc-menu-depth-2 tc-menu-align-left">
-                                                                <a href="//educationwp.thimpress.com/demo-2/" class="tc-menu-inner">Demo Course Era</a>
-                                                            </li>
-                                                            <li id="menu-item-3406" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-3406 tc-menu-item tc-menu-depth-2 tc-menu-align-left">
-                                                                <a href="//educationwp.thimpress.com/demo-3/" class="tc-menu-inner">Demo Online School</a>
-                                                            </li>
-                                                            <li id="menu-item-5775" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5775 tc-menu-item tc-menu-depth-2 tc-menu-align-left"><a href="//educationwp.thimpress.com/demo-languages-school/" class="tc-menu-inner">Demo Languages School</a></li>
-                                                            <li id="menu-item-5781" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5781 tc-menu-item tc-menu-depth-2 tc-menu-align-left">
-                                                                <a href="//educationwp.thimpress.com/demo-courses-hub/" class="tc-menu-inner">Demo Courses Hub</a>
-                                                            </li>
-                                                        </ul>
-                                                    </li>
-                                                    <li id="menu-item-5779" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-5779 tc-menu-item tc-menu-depth-1 tc-menu-align-left col-md-4 col-sm-12">
-                                                        <a href="#" class="tc-megamenu-title">Group 2</a>
-                                                        <ul class="sub-menu">
-                                                            <li id="menu-item-4028" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4028 tc-menu-item tc-menu-depth-2 tc-menu-align-left"><a href="//educationwp.thimpress.com/demo-university/" class="tc-menu-inner">Demo Classic University</a></li>
-                                                            <li id="menu-item-4202" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4202 tc-menu-item tc-menu-depth-2 tc-menu-align-left"><a href="//educationwp.thimpress.com/demo-university-2/" class="tc-menu-inner">Demo Modern University</a></li>
-                                                            <li id="menu-item-3435" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3435 tc-menu-item tc-menu-depth-2 tc-menu-align-left"><a href="//educationwp.thimpress.com/demo-university-3/" class="tc-menu-inner">Demo Ivy League</a></li>
-                                                            <li id="menu-item-5873" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5873 tc-menu-item tc-menu-depth-2 tc-menu-align-left"><a href="//educationwp.thimpress.com/demo-university-4/" class="tc-menu-inner">Demo Stanford</a></li>
-                                                            <li id="menu-item-5801" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5801 tc-menu-item tc-menu-depth-2 tc-menu-align-left"><a href="//educationwp.thimpress.com/demo-kindergarten/" class="tc-menu-inner">Demo Kindergarten</a></li>
-                                                        </ul>
-                                                    </li>
-                                                    <li id="menu-item-5780" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-5780 tc-menu-item tc-menu-depth-1 tc-menu-align-left col-md-4 col-sm-12">
-                                                        <a href="#" class="tc-megamenu-title">Group 3</a>
-                                                        <ul class="sub-menu">
-                                                            <li id="menu-item-3899" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3899 tc-menu-item tc-menu-depth-2 tc-menu-align-left"><a href="//educationwp.thimpress.com/demo-one-instructor/" class="tc-menu-inner">Demo One Instructor</a></li>
-                                                            <li id="menu-item-3898" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3898 tc-menu-item tc-menu-depth-2 tc-menu-align-left"><a href="//educationwp.thimpress.com/demo-one-course/" class="tc-menu-inner">Demo One Course</a></li>
-                                                            <li id="menu-item-3436" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3436 tc-menu-item tc-menu-depth-2 tc-menu-align-left">
-                                                                <a href="//educationwp.thimpress.com/demo-rtl/" class="tc-menu-inner">Demo RTL</a>
-                                                            </li>
-                                                            <li id="menu-item-5872" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5872 tc-menu-item tc-menu-depth-2 tc-menu-align-left">
-                                                                <a href="//educationwp.thimpress.com/demo-boxed/" class="tc-menu-inner">Demo Boxed</a>
-                                                            </li>
-                                                            <li id="menu-item-5874" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5874 tc-menu-item tc-menu-depth-2 tc-menu-align-left">
-                                                                <span class="tc-menu-inner">Coming Soon</span>
-                                                            </li>
-                                                        </ul>
-                                                    </li>
-                                                </ul>
-                                            </div>
-                                        </li>
-                                        <li id="menu-item-5894" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5894 tc-menu-item tc-menu-depth-0 tc-menu-align-left tc-menu-layout-builder">
-                                            <a href="https://educationwp.thimpress.com/demo-3/courses/" class="tc-menu-inner">Courses</a>
-                                            <div class="tc-megamenu-wrapper tc-megamenu-holder mega-sub-menu sub-menu" style="left: -319px; display: none; opacity: 1;">
-                                                <div id="pl-tc-megamenu-5894" class="panel-layout">
-                                                    <div id="pg-tc-megamenu-5894-0" class="panel-grid panel-has-style">
-                                                        <div class="thim-megamenu-row panel-row-style panel-row-style-for-tc-megamenu-5894-0">
-                                                            <div id="pgc-tc-megamenu-5894-0-0" class="panel-grid-cell">
-                                                                <div id="panel-tc-megamenu-5894-0-0-0" class="so-panel widget widget_nav_menu panel-first-child panel-last-child" data-index="0">
-                                                                    <h3 class="widget-title">About Courses</h3>
-                                                                    <div class="menu-about-courses-container">
-                                                                        <ul id="menu-about-courses" class="menu">
-                                                                            <li id="menu-item-5739" class="menu-item menu-item-type-post_type menu-item-object-lp_course menu-item-5739 tc-menu-item tc-menu-depth-0 tc-menu-layout-default"><a href="https://educationwp.thimpress.com/demo-3/courses/learnpress-101/" class="tc-menu-inner">Free Access Type</a></li>
-                                                                            <li id="menu-item-5741" class="menu-item menu-item-type-post_type menu-item-object-lp_course menu-item-5741 tc-menu-item tc-menu-depth-0 tc-menu-layout-default"><a href="https://educationwp.thimpress.com/demo-3/courses/node/" class="tc-menu-inner">Other Free Type</a></li>
-                                                                            <li id="menu-item-5740" class="menu-item menu-item-type-post_type menu-item-object-lp_course menu-item-5740 tc-menu-item tc-menu-depth-0 tc-menu-layout-default">
-                                                                                <a href="https://educationwp.thimpress.com/demo-3/courses/become-a-php-master-and-make-money-fast/" class="tc-menu-inner">Paid Type</a>
-                                                                            </li>
-                                                                            <li id="menu-item-5742" class="menu-item menu-item-type-post_type menu-item-object-lp_course menu-item-5742 tc-menu-item tc-menu-depth-0 tc-menu-layout-default">
-                                                                                <a href="https://educationwp.thimpress.com/demo-3/courses/improve-your-css-workflow-with-sass/" class="tc-menu-inner">Other Paid Type</a>
-                                                                            </li>
-                                                                            <li id="menu-item-4390" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4390 tc-menu-item tc-menu-depth-0 tc-menu-layout-default">
-                                                                                <a href="https://educationwp.thimpress.com/demo-3/courses/" class="tc-menu-inner">Courses Archive</a>
-                                                                            </li>
-                                                                            <li id="menu-item-4389" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4389 tc-menu-item tc-menu-depth-0 tc-menu-layout-default"><a href="https://educationwp.thimpress.com/demo-3/demo-accounts/" class="tc-menu-inner">Demo Accounts</a></li>
-                                                                            <li id="menu-item-4391" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4391 tc-menu-item tc-menu-depth-0 tc-menu-layout-default"><a href="https://educationwp.thimpress.com/demo-3/become-a-teacher/" class="tc-menu-inner">Become an Instructor</a></li>
-                                                                            <li id="menu-item-4392" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4392 tc-menu-item tc-menu-depth-0 tc-menu-layout-default"><a href="//educationwp.thimpress.com/demo-3/profile/keny/" class="tc-menu-inner">Instructor Profile</a></li>
-                                                                        </ul>
-                                                                    </div>
-                                                                </div>
-                                                            </div>
-                                                            <div id="pgc-tc-megamenu-5894-0-1" class="panel-grid-cell">
-                                                                <div id="panel-tc-megamenu-5894-0-1-0" class="so-panel widget widget_courses panel-first-child panel-last-child" data-index="1">
-                                                                    <div class="thim-widget-courses thim-widget-courses-base">
-                                                                        <h3 class="widget-title">New Course</h3>
-                                                                        <div class="thim-course-megamenu">
-                                                                            <div class="lpr_course course-grid-1">
-                                                                                <div class="course-item">
-                                                                                    <div class="course-thumbnail">
-                                                                                        <a href="https://educationwp.thimpress.com/demo-3/courses/html-tutorial-html-css-for-beginners/">
-                                                                                            <img src="https://3ek5k1tux0822q3g83e30fye-wpengine.netdna-ssl.com/demo-3/wp-content/uploads/sites/19/2015/06/course-6-450x450.jpg" alt="HTML Tutorial: HTML &amp; CSS for Beginners" title="course-6" width="450" height="450">
-                                                                                        </a>
-                                                                                    </div>
-                                                                                    <div class="thim-course-content">
-                                                                                        <h2 class="course-title">
-                                                                                            <a href="https://educationwp.thimpress.com/demo-3/courses/html-tutorial-html-css-for-beginners/">
-                      HTML Tutorial: HTML &amp; CSS for Beginners</a>
-                                                                                        </h2>
-                                                                                        <div class="course-meta">
-                                                                                            <div class="course-price" itemprop="offers" itemscope="" itemtype="http://schema.org/Offer">
-                                                                                                <div class="value" itemprop="price"> $39.00</div>
-                                                                                                <meta itemprop="priceCurrency" content="$">
-                                                                                            </div>
-                                                                                        </div>
-                                                                                        <a class="course-readmore" href="https://educationwp.thimpress.com/demo-3/courses/html-tutorial-html-css-for-beginners/">Read More</a>
-                                                                                    </div>
-                                                                                </div>
-                                                                            </div>
-                                                                        </div>
-                                                                    </div>
-                                                                </div>
-                                                            </div>
-                                                            <div id="pgc-tc-megamenu-5894-0-2" class="panel-grid-cell">
-                                                                <div id="panel-tc-megamenu-5894-0-2-0" class="so-panel widget widget_single-images panel-first-child panel-last-child" data-index="2">
-                                                                    <div class="thim-widget-single-images thim-widget-single-images-base">
-                                                                        <div class="single-image text-left">
-                                                                            <a href="#"><img src="https://3ek5k1tux0822q3g83e30fye-wpengine.netdna-ssl.com/demo-3/wp-content/uploads/sites/19/2016/02/megamenu.jpg" width="252" height="359" alt=""></a>
-                                                                        </div>
-                                                                    </div>
-                                                                </div>
-                                                            </div>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </li>
-                                        <li id="menu-item-95" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-95 tc-menu-item tc-menu-depth-0 tc-menu-align-left tc-menu-layout-default">
-                                            <span class="tc-menu-inner">Features</span>
-                                            <span class="icon-toggle"><i class="fa fa-angle-down"></i></span>
-                                            <ul class="sub-menu" style="display: none; opacity: 1;">
-                                                <li id="menu-item-5798" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5798 tc-menu-item tc-menu-depth-1 tc-menu-align-left">
-                                                    <a href="http://educationwp.thimpress.com/membership-account/membership-levels/" class="tc-megamenu-title">Membership</a></li>
-                                                <li id="menu-item-4451" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4451 tc-menu-item tc-menu-depth-1 tc-menu-align-left">
-                                                    <a href="https://educationwp.thimpress.com/demo-3/portfolio-masonry/" class="tc-megamenu-title">Portfolio</a>
-                                                </li>
-                                                <li id="menu-item-3437" class="menu-item menu-item-type-post_type_archive menu-item-object-forum menu-item-3437 tc-menu-item tc-menu-depth-1 tc-menu-align-left">
-                                                    <a href="https://educationwp.thimpress.com/demo-3/forums/" class="tc-megamenu-title">Forums</a>
-                                                </li>
-                                                <li id="menu-item-2924" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2924 tc-menu-item tc-menu-depth-1 tc-menu-align-left"><a href="https://educationwp.thimpress.com/demo-3/about-us/" class="tc-megamenu-title">About Us</a></li>
-                                                <li id="menu-item-96" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-96 tc-menu-item tc-menu-depth-1 tc-menu-align-left">
-                                                    <a href="https://educationwp.thimpress.com/demo-3/faqs/" class="tc-megamenu-title">FAQs</a>
-                                                </li>
-                                                <li id="menu-item-5789" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5789 tc-menu-item tc-menu-depth-1 tc-menu-align-left"><a href="//educationwp.thimpress.com/demo-university-2/shop/" class="tc-megamenu-title">Sidebar Shop</a>
-                                                </li>
-                                                <li id="menu-item-3126" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3126 tc-menu-item tc-menu-depth-1 tc-menu-align-left">
-                                                    <a href="//educationwp.thimpress.com/demo-3/404-page" class="tc-megamenu-title">404 Page</a>
-                                                </li>
-                                            </ul>
-                                        </li>
+                                <nav class="width-navigation table-cell table-center" >
+                                    <ul class="nav navbar-nav menu-main-menu" style= "text-align: initial;">
+                                        
+                                        
+                                      
                                         <span id="magic-line" style="width: 52px; left: 735px; bottom: 26px;"></span>
-                                        <li id="menu-item-5891" class="menu-item menu-item-type-post_type_archive menu-item-object-tp_event current-menu-item menu-item-5891 tc-menu-item tc-menu-depth-0 tc-menu-align-left tc-menu-layout-default">
+                                        <li id="menu-item-5891" class="menu-item menu-item-type-post_type_archive menu-item-object-tp_event current-menu-item menu-item-5891 tc-menu-item tc-menu-depth-0 tc-menu-align-left tc-menu-layout-default" >
                                             <a href="https://educationwp.thimpress.com/demo-3/events/" class="tc-menu-inner">Events</a>
                                         </li>
-                                        <li id="menu-item-4528" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4528 tc-menu-item tc-menu-depth-0 tc-menu-align-left tc-menu-layout-default">
-                                            <a href="https://educationwp.thimpress.com/demo-3/gallery/" class="tc-menu-inner">Gallery</a>
-                                        </li>
-                                        <li id="menu-item-127" class="menu-item menu-item-type-post_type menu-item-object-page current_page_parent menu-item-127 tc-menu-item tc-menu-depth-0 tc-menu-align-left tc-menu-layout-default">
-                                            <a href="https://educationwp.thimpress.com/demo-3/blog/" class="tc-menu-inner">Blog</a></li>
+                                       
+                                       
                                         <li id="menu-item-99" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-99 tc-menu-item tc-menu-depth-0 tc-menu-align-left tc-menu-layout-default">
                                             <a href="https://educationwp.thimpress.com/demo-3/contact/" class="tc-menu-inner">Contact</a>
                                         </li>
-                                        <li id="menu-item-1702" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1702 tc-menu-item tc-menu-depth-0 tc-menu-align-left tc-menu-layout-default last-menu-item"><a href="https://educationwp.thimpress.com/demo-3/shop/" class="tc-menu-inner">Shop</a></li>
-                                        <li class="menu-right">
+                                        
+                                        <li class="menu-right" style= "text-align: initial;" >
                                             <ul>
                                                 <li id="courses-searching-2" class="widget widget_courses-searching">
                                                     <div class="thim-widget-courses-searching thim-widget-courses-searching-base">
